@@ -1,0 +1,13 @@
+h1 {
+  color: #C33322;
+  text-align: left;
+}
+h2 {
+  font-style: italic;
+  font-weight: bold;
+}
+ul {
+    font-family: cursive;
+    font-size: 28px;
+    line-height: inherit;
+}
